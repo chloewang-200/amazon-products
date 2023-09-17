@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amazon-products/static/css/main.4f0e6591.css",
+    "main.js": "/amazon-products/static/js/main.cc289409.js",
+    "static/js/787.95917c2a.chunk.js": "/amazon-products/static/js/787.95917c2a.chunk.js",
+    "index.html": "/amazon-products/index.html",
+    "main.4f0e6591.css.map": "/amazon-products/static/css/main.4f0e6591.css.map",
+    "main.cc289409.js.map": "/amazon-products/static/js/main.cc289409.js.map",
+    "787.95917c2a.chunk.js.map": "/amazon-products/static/js/787.95917c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0e6591.css",
+    "static/js/main.cc289409.js"
+  ]
+}
